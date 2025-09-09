@@ -28,7 +28,20 @@ h3 {
     text-align: left;
 }
 
+.heading{
+    color: grey;
+}
+
 nav a {
     border: 1px solid black;
 }
 
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 1px;
+}
+
+span.special {
+    color: yellowgreen;
+}
