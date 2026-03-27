@@ -6,7 +6,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-a {
+.cover {
     border: 1px;
     border-style: solid;
     border-color: black;
@@ -41,4 +41,8 @@ table, td, tr, th {
     border-style: solid;
     border-color: black;
     padding: 1px;
+}
+
+.center {
+    text-align: center;
 }
